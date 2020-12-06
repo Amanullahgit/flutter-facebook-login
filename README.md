@@ -1,16 +1,25 @@
-# facebook_login
+# Flutter Facebook Login
 
-A new Flutter project.
+This is the source code for Flutter Facebook Login.<br>
 
-## Getting Started
+## App Features
+- Login To Your Facebook.<br>
+- Retrieve Your Profile & Name.<br>
 
-This project is a starting point for a Flutter application.
+If you don't know how to setup your facebook developer app, it is covered in video, follow it.<br>
+For Step By Step Guide Follow Video Tutorial:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter Facebook Login | How To Add Facebook Login Into Flutter App - Step By Step Guide](https://youtu.be/Q61d-Ag13eU)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Facebook Login](https://bit.ly/3lMjyGa)
+- [Flutter Http Package](https://bit.ly/3lKsU5e)
+- [Openssl for windows](https://bit.ly/33N1gOQ)
+- [Graph API DOC](https://bit.ly/2VKT9xD)
+- [Graph API Version](https://bit.ly/36JtfAP)
+- [Privacy Policy Generator](https://bit.ly/2L4hiNC)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
