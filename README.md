@@ -9,7 +9,7 @@ This is the source code for Flutter Facebook Auth.<br>
 If you don't know how to setup your facebook developer app, it is covered in video, follow it.<br>
 For Step By Step Guide Follow Video Tutorial:
 
-- [Flutter Facebook Login | How To Add Facebook Login Into Flutter App - Step By Step Guide](https://youtu.be/Q61d-Ag13eU)
+- [Flutter Facebook Auth | How To Add Facebook Auth And Retrieve Public Profile](https://bit.ly/3t56P8f)
 
 ## Links used in project:
 
