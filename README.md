@@ -11,6 +11,8 @@ For Step By Step Guide Follow Video Tutorial:
 
 - [Flutter Facebook Login | How To Add Facebook Login Into Flutter App - Step By Step Guide](https://youtu.be/Q61d-Ag13eU)
 
+- [Updated Repo Here](https://github.com/Amanullahgit/flutter-facebook-login/blob/flutter_facebook_auth/README.md)
+
 ## Links used in project:
 
 - [Flutter Facebook Login](https://bit.ly/3lMjyGa)
