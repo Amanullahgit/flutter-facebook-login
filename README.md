@@ -10,6 +10,8 @@ If you don't know how to setup your facebook developer app, it is covered in vid
 For Step By Step Guide Follow Video Tutorial:
 
 - [Flutter Facebook Auth | How To Implement Facebook Auth And Retrieve Public Profile](https://bit.ly/3t56P8f)
+- [Retrieve Facebook Friends Video](https://bit.ly/3Ii137C)
+
 
 ## Links used in project:
 
