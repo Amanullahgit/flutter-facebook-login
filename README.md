@@ -25,3 +25,5 @@ For Step By Step Guide Follow Video Tutorial:
 
 Feel Free to copy the code and use it.<br><br>
 Don't forget to star the repo and like the video :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](amanullahpay)
